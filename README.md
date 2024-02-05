@@ -55,12 +55,8 @@
 - There is an equal distribution of Bad and Good reviews, comparatively low level of review for neutral review.
 - There is no reviews particularly says about Doctor or treatment.
 - Most reviews was reagrding staffs, services were highlighted.
-- To increase the good reviews of any healthcare induatry,the staffs need to be more patience and need to understand the patient's 
-  condition clearly and can act accordingly.
+- To increase the good reviews of any healthcare induatry,the staffs need to be more patience and need to understand the 
+  patient's condition clearly and can act accordingly.
 - Healthcare system should be done as service not as business.
   
-## Project 2 - Predicting Hospital Readmissions
-
-#### Objective: 
-  The primary goal of this project is to build a predictive model that can identify patients who are at high risk of hospital readmission within 30 days after their initial discharge.
-
+### Thank you All!
