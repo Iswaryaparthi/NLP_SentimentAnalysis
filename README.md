@@ -1,5 +1,5 @@
-# FinalProject 
-## Project 1 - NLP: Sentiment Analysis on Healthcare Reviews
+## NLP: Sentiment Analysis on Healthcare Reviews
+
 #### Objective:
   The goal of this project is to develop a model that can classify sentiments in healthcare reviews. This involves analyzing text data from healthcare reviews and determining whether the sentiment expressed in each review is positive, negative, or neutral.
 
